@@ -1,6 +1,7 @@
 # Block-Ops-Warfare
 Fight against your friends on highly detailed maps with realistic weapons.
  Block Ops: Warfare
+DOWNLOAD HERE: https://www.curseforge.com/minecraft/modpacks/block-ops-warfare
 
 🔫 Modern warfare meets Minecraft – for free!
 
