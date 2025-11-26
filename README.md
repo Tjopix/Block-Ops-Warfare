@@ -4,7 +4,6 @@ Fight against your friends on highly detailed maps with realistic weapons.
 DOWNLOAD HERE: https://www.curseforge.com/minecraft/modpacks/block-ops-warfare
 
 🔫 Modern warfare meets Minecraft – for free!
-
 Block Ops: Warfare is a military-themed Minecraft modpack inspired by classic FPS games like Call of Duty – completely reimagined in the world of blocks. Built by Dark ˣ Pixel Studios™, this pack delivers fast-paced action, tactical decision-making, and immersive multiplayer gameplay – 100% free.
 
 ⚠️Please make sure to allocate at least 8–10 GB of RAM to your Minecraft, or to your server if you are hosting one.
